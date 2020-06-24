@@ -24,3 +24,25 @@ SCED Required Development Schedule
 ```
 
 ![COCOMO](/img/screenshot.png?raw=true "Cocomo Calculator")
+
+
+### Download
+You can download an executable for Mac OS or Linux here:
+[Mac Build](https://cybernauts.science/cocomo/cocomocalc_mac.zip)
+[Linux Build](https://cybernauts.science/cocomo/cocomocalc_linux)
+
+#### On Linux
+- Download File, make it executable
+
+`chmod +x cocomocalc_linux`
+
+- execute it:
+
+`./cocomocalc_linux`
+
+### Or build it yourself
+- Git clone the repo
+- Install the requirements on your system (in a venv) from the requirements.txt
+- start the pyinstaller build with:
+
+`pyinstaller --onefile --clean main.py`

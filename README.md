@@ -1,9 +1,12 @@
 ## Cocomo Calculator
 
 This is a simple PyQT5 Application for Linux, MacOS and Windows. It can be used to estimate project parameters for
-big software projects.
+big software projects. I build this for an exam in software engineering to be a bit faster with the calculations. :stuck_out_tongue_winking_eye:
 
-COCOMO is also used by NASA: https://strs.grc.nasa.gov/repository/forms/cocomo-calculation/  :nerd_face:
+All tools were allowed so..
+
+COCOMO is also used by NASA: https://strs.grc.nasa.gov/repository/forms/cocomo-calculation/
+(Or atleast they also build a calculator for it.) :nerd_face:
 
 ``` 
 RELY Required Reliability

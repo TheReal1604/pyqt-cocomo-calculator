@@ -3,7 +3,7 @@
 This is a simple PyQT5 Application for Linux, MacOS and Windows. It can be used to estimate project parameters for
 big software projects.
 
-COCOMO is also used by NASA: https://strs.grc.nasa.gov/repository/forms/cocomo-calculation/ 
+COCOMO is also used by NASA: https://strs.grc.nasa.gov/repository/forms/cocomo-calculation/  :nerd_face:
 
 ``` 
 RELY Required Reliability
@@ -28,8 +28,10 @@ SCED Required Development Schedule
 
 ### Download
 You can download an executable for Mac OS or Linux here:
-[Mac Build](https://cybernauts.science/cocomo/cocomocalc_mac.zip)
-[Linux Build](https://cybernauts.science/cocomo/cocomocalc_linux)
+
+* [Mac Build](https://cybernauts.science/cocomo/cocomocalc_mac.zip) :computer:
+
+* [Linux Build](https://cybernauts.science/cocomo/cocomocalc_linux) :penguin:
 
 #### On Linux
 - Download File, make it executable
